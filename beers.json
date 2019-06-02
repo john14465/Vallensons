@@ -1,0 +1,436 @@
+{
+  "beers": [
+    {
+      "title": "Settlers Oat Meal Stout",
+      "img": "stout.jpg",
+      "style": "Stout",
+      "abv": "5.9%",
+      "description": "",
+      "onTap": true
+    },
+    {
+      "title": "The Advocate Amber Ale",
+      "img": "amberale.jpg",
+      "style": "Amber Ale",
+      "abv": "5.6%",
+      "description": "",
+      "onTap": true
+    },
+    {
+      "title": "Vallensons' IPA",
+      "img": "vipa.jpg",
+      "style": "India Pale Ale",
+      "abv": "7%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Lemongrass and Ginger Wheat",
+      "img": "wheat.jpg",
+      "style": "American Wheat Ale",
+      "abv": "5.5%",
+      "description": "This great summer beer is our American Wheat with a twist! We added fresh lemongrass and ginger throughout the brewing process resulting in very clean refreshing flavors without an overbearing ginger taste. The ABV is 5.5%.",
+      "onTap": true
+    },
+    {
+      "title": "Cream Ale",
+      "img": "creamale.jpg",
+      "style": "Cream Ale",
+      "abv": "5.2%",
+      "description": "Our Cream Ale is a light, thirst quenching ale with an amazing balance of malt to hop ratio. It comes in at 5.2 ABV and is one that can be enjoyed all day!",
+      "onTap": false
+    },
+    {
+      "title": "Russian Imperial Stout",
+      "img": "russian.jpg",
+      "style": "Imperial Stout",
+      "abv": "10%",
+      "description": "Our Russian Imperial Stout is a rich, intense brew with big complex flavors & an aggressive hop profile with a warming dry finish. It's complex malt profile includes many roasted and chocolate malts. It has a low carbonation level and the ABV is 10%.",
+      "onTap": false
+    },
+    {
+      "title": "Hazy Girl!",
+      "img": "hazygirl.jpg",
+      "style": "New England Style IPA",
+      "abv": "6.0%",
+      "description": "This New England style Hazy IPA has a huge hop nose but a low bitter profile.",
+      "onTap": false
+    },
+    {
+      "title": "The Depot Pale Ale",
+      "img": "depot.jpg",
+      "stIle": "Pale Ale",
+      "abv": "5.7%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Amberzon",
+      "img": "amberzon.jpg",
+      "style": "Imperial Amber",
+      "abv": "7.5%",
+      "description": "An Imperial Amber Ale that comes in at 7.5%. The color is a dark amber with a nice thick head. The aroma is extremely balanced with a perfect hop character and a ton of malty complexity!",
+      "onTap": false
+    },
+    {
+      "title": "Anniversary Ale",
+      "img": "anniversary.jpg",
+      "style": "Old Ale",
+      "abv": "9%",
+      "description": "An experimental strong ale",
+      "onTap": false
+    },
+    {
+      "title": "2 Bros Brew Pale Ale",
+      "img": "2bros2.jpg",
+      "style": "Pale Ale",
+      "abv": "5.25%",
+      "description": "This pale ale is very light and smooth coming in at 5.25 ABV. We used Mosaic hops whole leaf and pellet. It's a great summer beer!",
+      "onTap": true
+    },
+    {
+      "title": "Experimental IPA",
+      "img": "experimentalipa.jpg",
+      "style": "India Pale Ale",
+      "abv": "6.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Down the Hatch",
+      "img": "wheat.jpg",
+      "style": "American Wheat Ale",
+      "abv": "5.5%",
+      "description": "\"Down The Hatch\" a Lemongrass Ginger Wheat with Hatch Green Chile.",
+      "onTap": false
+    },
+    {
+      "title": "The 11th Hour",
+      "img": "11thhour.jpg",
+      "style": "Double India Pale Ale",
+      "abv": "11%",
+      "description": "It’s rich malt base and medium hop profile. It has a smooth yet full body taste and it improves as it gets warmer.",
+      "onTap": false
+    },
+    {
+      "title": "Ryes Up!!",
+      "img": "ryesup.jpg",
+      "style": "American Rye",
+      "abv": "5.5%",
+      "description": "The Vallensons' Rye is brewed with 50% Rye and 50% base malt. This beer comes in at 5.5% ABV. It has a long lasting white head with a touch of haze. It's smells delicious with a low to moderate grainy, spicy rye character. The full body mouthfeel and dry finish is one that will definitely quench your thirst.",
+      "onTap": false
+    },
+    {
+      "title": "Experimental IPA #2",
+      "img": "experimentalipa.jpg",
+      "style": "Double India Pale Ale",
+      "abv": "9.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Proof is in the porter",
+      "img": "porter.jpg",
+      "style": "Porter",
+      "abv": "5.2%",
+      "description": "It’s perfect for this fall weather. Roasted malts featuring chocolate and coffee flavors with a balanced hop profile for a smooth finish. This is the third release of our fall series. It has a roasted malty aroma with a hint of molasses.",
+      "onTap": false
+    },
+    {
+      "title": "Christmas Ale",
+      "img": "christmas.jpg",
+      "style": "English Old Ale",
+      "abv": "6.8%",
+      "description": "Our Christmas Ale is brewed in the style of an English Old Ale with an emphasis of the Winter Warmer profile. Brewed with fresh spruce tips. ABV is 6.8%. Perfect for your holiday celebrations!",
+      "onTap": false
+    },
+    {
+      "title": "V3",
+      "img": "exp3.jpg",
+      "style": "India Pale Ale",
+      "abv": "7.3%",
+      "description": "This IPA is the 3rd in our experimental series. It has a fresh, full flavor with a tribute to the classic IPAs with a post modern twist and an amazing fruity hop profile, which gives an explosion of tropical fruit flavors and a sharp bitter finish. This one comes in at 7.3 ABV.",
+      "onTap": false
+    },
+    {
+      "title": "Pat’s Bourbon BBL-Aged Oatmeal Stout",
+      "img": "bourbon.jpg",
+      "style": "Stout",
+      "abv": "7%",
+      "description": "We are saddened by the recent passing of one of our regulars, Pat, our “Norm”. We are blessed to have met Pat and will greatly miss seeing him every Friday and Saturday at the end of our bar enjoying his Vallensons’ favorite, The Settlers’ Oatmeal Stout. In his memory, we name our newest beer Pat’s Bourbon BBL-Aged Oatmeal Stout. This is our first barrel-aged release. Aged in bourbon barrels to create a rich, complex, medium-bodied beer with a Chocolate Roast flavor and aroma with warm bourbon and oak undertones and it gets better as is warms up. 7% ABV. This release is limited in quantity. RIP Pat.",
+      "onTap": false
+    },
+    {
+      "title": "Vallensons’ Coffee Stout ",
+      "img": "coffee.jpg",
+      "style": "Stout",
+      "abv": "7.5%",
+      "description": "Vallensons’ Coffee Stout is the ultimate warmer; perfect for cold weather. Our Coffee Stout is a fusion of dark roasted malts with fresh coffee from our very own local Pearland Coffee Roasters ! This beer has several layers of dark chocolate and caramel-like flavors with an amazing coffee nose and subtle bitterness. 7.5% ABV.",
+      "onTap": false
+    },
+    {
+      "title": "Pear Ale ",
+      "img": "pearale.jpg",
+      "style": "Fruit Ale",
+      "abv": "5.5%",
+      "description": "Test Small Batch (limited): PEAR ALE! Before we opened, we discussed making a Pear beer in honor our our hometown! Testing the waters...hoping it becomes a favorite and a Vallensons’ staple! We welcome feedback & always strive to improve new experimental brews! Come try it today!",
+      "onTap": false
+    },
+    {
+      "title": "Effin' Hazy IPA",
+      "img": "neipa.jpg",
+      "style": "New England IPA",
+      "abv": "6.3%",
+      "description": "Our NE IPA has an amazing nose, little to no bitterness, and makes the palate dance with it’s full and creamy yet soft mouthfeel. 6% ABV. With this beer, we salute our Texas flag. Come celebrate your independence with us! Cheers!",
+      "onTap": true
+    },
+    {
+      "title": "sMaSH Pale Ale",
+      "img": "smash.jpg",
+      "style": "Pale Ale",
+      "abv": "5.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Vilzner",
+      "img": "vilzner.jpg",
+      "style": "Pilsner",
+      "abv": "5.2%",
+      "description": "We finally made the highly requested light beer. The Vilzner is a crisp, clean 5.2% ABV Pilsner brewed with Pilsner Malt and East Kent Golding Hops. Just in time for the warmer months!",
+      "onTap": true
+    },
+    {
+      "title": "Bourban Barrel Aged Russian Imperial Stout",
+      "img": "bbrussian.jpg",
+      "style": "Imperial Stout",
+      "abv": "12%",
+      "description": "Our Russian Imperial Stout is a rich, intense brew with big complex flavors & an aggressive hop profile with a warming dry finish. It's complex malt profile includes many roasted and chocolate malts. Now its aged of months in Garrison Brother Bourban Barrels. It has a low carbonation level and the ABV is 12%.",
+      "onTap": true
+    },
+    {
+      "title": "Double IPA",
+      "img": "aniver.jpg",
+      "style": "Imperial Pale Ale",
+      "abv": "7.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Summer Pale",
+      "img": "aniver.jpg",
+      "style": "Pale Ale",
+      "abv": "6.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Dos Iijos Pale",
+      "img": "dos.jpg",
+      "style": "Mexican Pale Ale",
+      "abv": "5.5%",
+      "description": "Introducing our clean crisp MeIican Pale Ale. With the sons of Vallensons in mind, we name this one, Dos Hijos! This is a unique pale ale with moderate bitterness and a soft bready malt backbone.",
+      "onTap": false
+    },
+    {
+      "title": "West Coast IPA",
+      "img": "wcipa.jpg",
+      "style": "India Pale Ale",
+      "abv": "7.0%",
+      "description": "This West Coast style uses a blend of simcoe and centennial hops resulting in perfect clarity and a tropical fruit profile with a slight hint of pine. This great traditional IPA reminds Valle of the IPAs he once enjoyed while stationed with the USAF in California. 7.0% ABV Cheers!",
+      "onTap": true
+    },
+    {
+      "title": "American Wheat",
+      "img": "wheat.jpg",
+      "style": "Wheat Ale",
+      "abv": "6.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Bourbon Barrel Aged American Wheat with Lemon Grass and Ginger",
+      "img": "wheatoldbbl.jpg",
+      "style": "Wheat Ale",
+      "abv": "7.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Bourbon Barrel Aged Old Ale",
+      "img": "wheatoldbbl.jpg",
+      "style": "Old Ale",
+      "abv": "8.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Irish Dry Stout",
+      "img": "oldirish.jpg",
+      "style": "Stout",
+      "abv": "6.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Old Ale",
+      "img": "oldirish.jpg",
+      "style": "Old Ale",
+      "abv": "9.0%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Vienna",
+      "img": "vienna.jpg",
+      "style": "Pale Ale",
+      "abv": "6.7%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Brown Porter",
+      "img": "brownporter.jpg",
+      "style": "Porter",
+      "abv": "6.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Oktoberfest",
+      "img": "oktoberfest.jpg",
+      "style": "Oktoberfest",
+      "abv": "7%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Brut IPA",
+      "img": "brut.jpg",
+      "style": "India Pale Ale",
+      "abv": "5.9%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Och Aye",
+      "img": "scottishcherry.jpg",
+      "style": "Scottish Ale",
+      "abv": "7.0%",
+      "description": "",
+      "onTap": true
+    },
+    {
+      "title": "Cherry Stout",
+      "img": "scottishcherry.jpg",
+      "style": "Stout",
+      "abv": "6.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "English Brown Ale",
+      "img": "englishbrown.jpg",
+      "style": "Brown Ale",
+      "abv": "6%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Double IPA (2018)",
+      "img": "dipa2018.jpg",
+      "style": "Imperial Pale Ale",
+      "abv": "8.3%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Resilience IPA",
+      "img": "resilience.jpg",
+      "style": "India Pale Ale",
+      "abv": "6.7%",
+      "description": "This beer was brewed by over 1400 breweries across the country to help support those affected by the camp fires. 100% of Resilience IPA sales will go to the Sierra Nevada Camp Fire Relief fund to help Butte County rebuild its community.",
+      "onTap": false
+    },
+    {
+      "title": "The Drier Brut IPA",
+      "img": "drierbrut.jpg",
+      "style": "India Pale Ale",
+      "abv": "8.1%",
+      "description": "In honor of the “fallen” Rice Silos that were at the end of our street (Rice Drier), we name this one The Drier Brut IPA. Today, we are releasing this new beer at 3pm! This one is even better and dryer than our first Brut. It comes in at a big 8.1% ABV.",
+      "onTap": false
+    },
+    {
+      "title": "NEIPA EXP#1",
+      "img": "neipa.jpg",
+      "style": "New England",
+      "abv": "5.5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "ExBERRYmental Ale",
+      "img": "berry.jpg",
+      "style": "Fruit Beer",
+      "abv": "5.9%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "BeauTEAful Ale",
+      "img": "beauteaful.jpg",
+      "style": "Other",
+      "abv": "5.3%",
+      "description": "This is the first of our spring and summer Herbal Tea Beer Series. This is a light pale ale with an earthy and floral hops profile with an element of citrus. We used fresh herbs at different stages of the mash and boil to come up with this BeauTeaful beer. Some of the herbs consist of dried apples, rose-hips, BlackBerry leaves, Hibiscus, and more. Perfect timing for the spring and summer months.",
+      "onTap": false
+    },
+    {
+      "title": "Tea Series Experimental #2",
+      "img": "beauteaful.jpg",
+      "style": "Tea Beer",
+      "abv": "5.2%",
+      "description": "This is the second of our spring and summer Herbal Tea Beer Series. A light pale ale with an earthy and floral hops profile and an element of citrus. We used fresh herbs, including peach, lemongrass, Hibiscus, and more, at different stages of the mash and boil. We think it’s even better than our BeauTEAful beer!",
+      "onTap": true
+    },
+    {
+      "title": "Pink",
+      "img": "pink.jpg",
+      "style": "Sour",
+      "abv": "3.5%",
+      "description": "“Pink” is an amazing fragrant tart cherry Berliner Weisse with an amazing cherry nose, dry palate, and a sour tart quenching acidity at the finish. The tart cherries lightens the tart finish & makes for a great Mother’s Day weekend rollout!",
+      "onTap": true
+    },
+    {
+      "title": "English IPA",
+      "img": "eipa.jpg",
+      "style": "India Pale Ale - English",
+      "abv": "7.0%",
+      "description": "English IPA! It’s packed with flavor and offers a bold balance of hops which represent lavender, thyme, and bright piney aroma, with subtle tones of stone fruit, and firm bitterness. Those who like ESBs will love this one!",
+      "onTap": true
+    },
+    {
+      "title": "Experimental Brown Brut IPA",
+      "img": "bblbrownbrutberry.jpg",
+      "style": "India Pale Ale - Brown",
+      "abv": "5.0%",
+      "description": "",
+      "onTap": true
+    },
+    {
+      "title": "Pear Berliner",
+      "img": "bblbrownbrutberry.jpg",
+      "style": "Sour",
+      "abv": "3.5%",
+      "description": "",
+      "onTap": true
+    },
+    {
+      "title": "BBL ExBERRYmental Ale",
+      "img": "bblbrownbrutberry.jpg",
+      "style": "Fuit Beer",
+      "abv": "5.9%",
+      "description": "",
+      "onTap": true
+    }
+  ]
+}

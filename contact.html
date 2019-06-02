@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Vallensons' Brewing Company</title>
+        <link rel="stylesheet" href="css/normalize.css">
+        <link href="https://fonts.googleapis.com/css?family=IM+Fell+English" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
+        <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
+        <link rel="manifest" href="/favicon/manifest.json">
+        <link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#5bbad5">
+        <link rel="shortcut icon" href="/favicon/favicon.ico">
+        <meta name="msapplication-config" content="/favicon/browserconfig.xml">
+        <meta name="theme-color" content="#ffffff">
+        <link rel="stylesheet" href="css/font-awesome.min.css">
+        <link rel="stylesheet" href="css/bootstrap.css">
+        <link rel="stylesheet" href="css/style.min.css">
+    </head>
+    <body>
+        <!-- Nav Bar -->
+        <header id="sub-nav">
+            <div class="nav-wrap">
+                <div id="brand">
+                    <img src="img/vallenlogomin.png" alt="Vallensons' Mini Logo">
+                    <span id="homelogo">Vallensons' Brewing Company</span>
+                </div>
+                <div id="links">
+                    <nav>
+                        <ul>
+                            <li><a href="index.html">Home</a></li>
+                            <li><a href="about.html">About Us</a></li>
+                            <li><a href="beer.html">Beers</a></li>
+                            <li><a href="events.html">Events</a></li>
+                            <li><a href="contact.html">Contact Us</a></li>
+                        </ul>
+                    </nav>
+                </div>
+                <span id="mobile-icon" onclick="openMenu()"><i class="fa fa-bars" aria-hidden="true"></i></span>
+            </div>
+            <div class="mobile-nav">
+                <a href="index.html" onclick="closeMenu()">Home</a>
+                <a href="about.html" onclick="closeMenu()">About Us</a>
+                <a href="beer.html" onclick="closeMenu()">Our Beers</a>
+                <a href="events.html" onclick="closeMenu()">Events</a>
+                <a href="contact.html" onclick="closeMenu()">Contact Us</a>
+            </div>
+        </header>
+        <div id="contact-land" class="sub-bg">
+            <div class="overlay d-flex align-items-center justify-content-center text-white">
+                <h1>Come join us for a beer!</h1>
+            </div>
+        </div>
+        <section id="content">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h2>Address:</h2>
+                        <p>4081 Rice Drier Road <br> Pearland, Texas</p>
+                        <h2>Hours:</h2>
+                        <p>Monday: closed</p>
+                        <p>Tuesday: closed</p>
+                        <p>Wednesday: closed</p>
+                        <p>Thursday: closed</p>
+                        <p>Friday: 3:00pm - 10:00pm</p>
+                        <p>Saturday: 12:00pm - 10:00pm</p>
+                        <p>Sunday: 12:00pm - 7:00pm</p>
+                        <h2>Holiday Hours</h2>
+                        <p>Sunday April 21st: Closed</p>
+                        <h2>Additional Information:</h2>
+                        <p><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:lori@vallensons.com"> lori@vallensons.com</a></p>
+                        <p><i class="fa fa-phone" aria-hidden="true"></i> (281) 617-7537</p>
+                    </div>
+                    <div class="col-md-6">
+                            <iframe class="shadow" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13879.857778703934!2d-95.2871568!3d29.5756378!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x740e1e5e8a1357ee!2sVallensons+Brewing+Company!5e0!3m2!1sen!2sus!4v1500166185751" width="600" height="450" style="border:0" allowfullscreen></iframe>
+                            <div id="social">
+                            <h2>Check out our social media pages</h2>
+                            <span><a href="https://www.facebook.com/vallensons/" target="_blank"><img src="img/facebook.png" alt=""></a></span>
+                            <span><a href="https://twitter.com/Vallensons" target="_blank"><img src="img/twitter.png" alt=""></a></span>
+                            <span><a href="https://www.instagram.com/vallensons/" target="_blank"><img src="img/instagram.png" alt=""></a></span>
+                        </div>
+                    </div>
+                </div> 
+            </div>
+        </section>       
+        <footer>
+            <p>Follow us on Social Media</p>
+            <a href="https://www.facebook.com/vallensons/" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+            <a href="https://twitter.com/Vallensons" target="_blank"><i class="fa fa-twitter-square" aria-hidden="true"></i></a>
+            <a href="https://www.instagram.com/vallensons/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+            <p class="copy">Copywrite &copy; Vallensons' Brewing Company LLC</p>
+        </footer>
+        <script src="js/jquery.min.js"></script>
+        <script src="js/popper.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/mobile.min.js"></script>
+    </body>
+</html>

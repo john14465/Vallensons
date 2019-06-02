@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Vallensons' Brewing Company</title>
+        <link rel="stylesheet" href="css/normalize.css">
+        <link href="https://fonts.googleapis.com/css?family=IM+Fell+English" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
+        <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
+        <link rel="manifest" href="/favicon/manifest.json">
+        <link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#5bbad5">
+        <link rel="shortcut icon" href="/favicon/favicon.ico">
+        <meta name="msapplication-config" content="/favicon/browserconfig.xml">
+        <meta name="theme-color" content="#ffffff">
+        <link rel="stylesheet" href="css/font-awesome.min.css">
+        <link rel="stylesheet" href="css/bootstrap.css">
+        <link rel="stylesheet" href="css/style.min.css">
+    </head>
+    <body>
+        <!-- Nav Bar -->
+        <header id="sub-nav">
+            <div class="nav-wrap">
+                <div id="brand">
+                    <img src="img/vallenlogomin.png" alt="Vallensons' Mini Logo">
+                    <span id="homelogo">Vallensons' Brewing Company</span>
+                </div>
+                <div id="links">
+                    <nav>
+                        <ul>
+                            <li><a href="index.html">Home</a></li>
+                            <li><a href="about.html">About Us</a></li>
+                            <li><a href="beer.html">Beers</a></li>
+                            <li><a href="events.html">Events</a></li>
+                            <li><a href="contact.html">Contact Us</a></li>
+                        </ul>
+                    </nav>
+                </div>
+                <span id="mobile-icon" onclick="openMenu()"><i class="fa fa-bars" aria-hidden="true"></i></span>
+            </div>
+            <div class="mobile-nav">
+                <a href="index.html" onclick="closeMenu()">Home</a>
+                <a href="about.html" onclick="closeMenu()">About Us</a>
+                <a href="beer.html" onclick="closeMenu()">Our Beers</a>
+                <a href="events.html" onclick="closeMenu()">Events</a>
+                <a href="contact.html" onclick="closeMenu()">Contact Us</a>
+            </div>
+        </header>
+        <div id="events-land" class="sub-bg">
+            <div class="overlay d-flex align-items-center justify-content-center text-white">
+                <h1>Events</h1>
+            </div>
+        </div>
+        <section id="events">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 mb-3">
+                        <h2 id="currentmonth"></h2>
+                        <hr>
+                        <div id="currentevents">
+
+                        </div>
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <h2 id="nextmonth"></h2>
+                        <hr>
+                        <div id="nextevents">
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section> 
+        <footer>
+            <p>Follow us on Social Media</p>
+            <a href="https://www.facebook.com/vallensons/" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+            <a href="https://twitter.com/Vallensons" target="_blank"><i class="fa fa-twitter-square" aria-hidden="true"></i></a>
+            <a href="https://www.instagram.com/vallensons/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+            <p class="copy">Copywrite &copy; Vallensons' Brewing Company LLC</p>
+        </footer>
+        <script src="js/jquery.min.js"></script>
+        <script src="js/popper.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/mobile.min.js"></script>
+        <script src="js/events.min.js"></script>
+    </body>
+</html>

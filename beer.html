@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Vallensons' Brewing Company</title>
+    <link rel="stylesheet" href="css/normalize.css" />
+    <link
+      href="https://fonts.googleapis.com/css?family=IM+Fell+English"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Lato:400,700"
+      rel="stylesheet"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="/favicon/apple-touch-icon.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="/favicon/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="/favicon/favicon-16x16.png"
+    />
+    <link rel="manifest" href="/favicon/manifest.json" />
+    <link
+      rel="mask-icon"
+      href="/favicon/safari-pinned-tab.svg"
+      color="#5bbad5"
+    />
+    <link rel="shortcut icon" href="/favicon/favicon.ico" />
+    <meta name="msapplication-config" content="/favicon/browserconfig.xml" />
+    <meta name="theme-color" content="#ffffff" />
+    <link rel="stylesheet" href="css/font-awesome.min.css" />
+    <link rel="stylesheet" href="css/bootstrap.css" />
+    <link rel="stylesheet" href="css/style.min.css" />
+  </head>
+  <body>
+    <!-- Nav Bar -->
+    <header id="sub-nav">
+      <div class="nav-wrap">
+        <div id="brand">
+          <img src="img/vallenlogomin.png" alt="Vallensons' Mini Logo" />
+          <span id="homelogo">Vallensons' Brewing Company</span>
+        </div>
+        <div id="links">
+          <nav>
+            <ul>
+              <li><a href="index.html">Home</a></li>
+              <li><a href="about.html">About Us</a></li>
+              <li><a href="beer.html">Beers</a></li>
+              <li><a href="events.html">Events</a></li>
+              <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+          </nav>
+        </div>
+        <span id="mobile-icon" onclick="openMenu()"
+          ><i class="fa fa-bars" aria-hidden="true"></i
+        ></span>
+      </div>
+      <div class="mobile-nav">
+        <a href="index.html" onclick="closeMenu()">Home</a>
+        <a href="about.html" onclick="closeMenu()">About Us</a>
+        <a href="beer.html" onclick="closeMenu()">Our Beers</a>
+        <a href="events.html" onclick="closeMenu()">Events</a>
+        <a href="contact.html" onclick="closeMenu()">Contact Us</a>
+      </div>
+    </header>
+    <div id="beer-land" class="sub-bg">
+      <div
+        class="overlay d-flex align-items-center justify-content-center text-white"
+      >
+        <h1>Our Beers</h1>
+      </div>
+    </div>
+    <section id="onTap">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <h1>Beers Crafted By Vallensons'</h1>
+            <hr />
+            <!-- <h3>Currently on Tap</h3> -->
+          </div>
+        </div>
+        <div class="row">
+          <div id="currentBeers" class="card-columns"></div>
+        </div>
+      </div>
+    </section>
+    <section id="notOnTap">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <h3>More Beers Crafted by Vallensons'</h3>
+            <hr />
+          </div>
+        </div>
+        <div class="row">
+          <div id="otherBeers" class="card-columns"></div>
+        </div>
+      </div>
+    </section>
+    <section id="otherDrinks">
+      <div class="container">
+        <h3>Other drinks we provide our customers</h3>
+        <hr />
+        <div class="row">
+          <div class="col-md-6">
+            <h3>Wines</h3>
+            <ul>
+              <li>Pinot Grigio</li>
+              <li>Pinot Noir</li>
+              <li>Cabernet Savignon</li>
+              <li>Chardonnay</li>
+            </ul>
+            <h3>Ciders</h3>
+            <ul>
+              <li>Pear Cider</li>
+            </ul>
+            <h3>Vallensons' Soda</h3>
+            <ul>
+              <li>Root Beer</li>
+              <li>Cream Soda</li>
+            </ul>
+          </div>
+          <div class="col-md-6">
+            <img src="img/otherdrinks.jpg" class="img-fluid" alt="" />
+          </div>
+        </div>
+      </div>
+    </section>
+    <footer>
+      <p>Follow us on Social Media</p>
+      <a href="https://www.facebook.com/vallensons/" target="_blank"
+        ><i class="fa fa-facebook-square" aria-hidden="true"></i
+      ></a>
+      <a href="https://twitter.com/Vallensons" target="_blank"
+        ><i class="fa fa-twitter-square" aria-hidden="true"></i
+      ></a>
+      <a href="https://www.instagram.com/vallensons/" target="_blank"
+        ><i class="fa fa-instagram" aria-hidden="true"></i
+      ></a>
+      <p class="copy">Copywrite &copy; Vallensons' Brewing Company LLC</p>
+    </footer>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/mobile.min.js"></script>
+    <script src="js/beers.min.js"></script>
+  </body>
+</html>
