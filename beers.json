@@ -86,7 +86,7 @@
       "style": "Pale Ale",
       "abv": "5.25%",
       "description": "This pale ale is very light and smooth coming in at 5.25 ABV. We used Mosaic hops whole leaf and pellet. It's a great summer beer!",
-      "onTap": true
+      "onTap": false
     },
     {
       "title": "Experimental IPA",
@@ -182,7 +182,7 @@
       "style": "New England IPA",
       "abv": "6.3%",
       "description": "Our NE IPA has an amazing nose, little to no bitterness, and makes the palate dance with it’s full and creamy yet soft mouthfeel. 6% ABV. With this beer, we salute our Texas flag. Come celebrate your independence with us! Cheers!",
-      "onTap": true
+      "onTap": false
     },
     {
       "title": "sMaSH Pale Ale",
@@ -318,7 +318,7 @@
       "style": "Scottish Ale",
       "abv": "7.0%",
       "description": "",
-      "onTap": true
+      "onTap": false
     },
     {
       "title": "Cherry Stout",
@@ -382,7 +382,7 @@
       "style": "Other",
       "abv": "5.3%",
       "description": "This is the first of our spring and summer Herbal Tea Beer Series. This is a light pale ale with an earthy and floral hops profile with an element of citrus. We used fresh herbs at different stages of the mash and boil to come up with this BeauTeaful beer. Some of the herbs consist of dried apples, rose-hips, BlackBerry leaves, Hibiscus, and more. Perfect timing for the spring and summer months.",
-      "onTap": false
+      "onTap": true
     },
     {
       "title": "Tea Series Experimental #2",
@@ -390,7 +390,7 @@
       "style": "Tea Beer",
       "abv": "5.2%",
       "description": "This is the second of our spring and summer Herbal Tea Beer Series. A light pale ale with an earthy and floral hops profile and an element of citrus. We used fresh herbs, including peach, lemongrass, Hibiscus, and more, at different stages of the mash and boil. We think it’s even better than our BeauTEAful beer!",
-      "onTap": true
+      "onTap": false
     },
     {
       "title": "Pink",
@@ -418,7 +418,7 @@
     },
     {
       "title": "Pear Berliner",
-      "img": "bblbrownbrutberry.jpg",
+      "img": "pearb.jpg",
       "style": "Sour",
       "abv": "3.5%",
       "description": "",
@@ -430,6 +430,14 @@
       "style": "Fuit Beer",
       "abv": "5.9%",
       "description": "",
+      "onTap": true
+    },
+    {
+      "title": "Berliner Sunrise",
+      "img": "sunrise.jpg",
+      "style": "Berliner Weisser",
+      "abv": "3.5%",
+      "description": "Our 3rd Berliner Weisse will be on tap tomorrow at 3pm! The citrus note from the yeast and the Macintosh Apples gives this Berliner an amazing taste and smell. The tart and sweet balance will keep you coming back for more! It’s like breakfast in a glass! All you need is a side of bacon and eggs! Cheers!",
       "onTap": true
     }
   ]
