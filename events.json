@@ -11,11 +11,38 @@
     },
     {
       "month": 6,
+      "day": 28,
+      "year": 2019,
+      "title": "Bryan Shayne and Texasiana Famous Food!",
+      "description": "Next Friday!! Enjoy and dance to live music by the awesome Bryan Shayne 6-9p and grub on some delicious food by Texasiana 5-9p!! And of course, enjoy great craft beers 3-10p! Cheers!",
+      "link": "https://www.facebook.com/events/528064444397349/",
+      "class": "d-Block"
+    },
+    {
+      "month": 6,
       "day": 30,
       "year": 2019,
       "title": "June Jeep Meet",
       "description": "OlllllllO We love seeing those Jeeps! Next meet will be June 30th 2-6pm. Let’s talk Jeeps over cold craft beer! We also have wine, cider, & mimosas. Cheers!",
       "link": "https://www.facebook.com/events/2147077445389409/",
+      "class": "d-Block"
+    },
+    {
+      "month": 7,
+      "day": 3,
+      "year": 2019,
+      "title": "Party before the 4th!",
+      "description": "Many have asked when we will do another special week night opening so we decided on July 3rd since the next day is a holiday! Enjoy mid-week brews at Vallensons and get your growler fills for your holiday celebration! Food Truck is TBD. Cheers!",
+      "link": "https://www.facebook.com/events/482591839178727/",
+      "class": "d-Block"
+    },
+    {
+      "month": 7,
+      "day": 12,
+      "year": 2019,
+      "title": "Stogies & Ales for Vets",
+      "description": "The next Stogies and Ales for Veterans is this Friday! And it’s steak night!! Grab your cigars, your military brothers and sisters and enjoy great craft beer, a delicious C&S Rollin’ Smoke steak dinner, and live music by the awesome Bryan Shayne from 6-9pm! Cheers!",
+      "link": "https://www.facebook.com/events/474385966692094/",
       "class": "d-Block"
     },
     {
@@ -34,6 +61,15 @@
       "title": "July Jeep Meet",
       "description": "OlllllllO July Jeep Meet will be July 21st, 2-6pm. Food truck is TBD. Show us your Jeeps! Cheers!",
       "link": "https://www.facebook.com/events/566841597055084/",
+      "class": "d-Block"
+    },
+    {
+      "month": 8,
+      "day": 10,
+      "year": 2019,
+      "title": "Valle’s Bday Celebration/Two Fifths",
+      "description": "Valle turns 45 on Aug 10!! Come celebrate with us! Live music by Two Fifths, delicious food by Home Saddled BBQ, and of course, Valle’s great craft beer! Cheers!",
+      "link": "https://www.facebook.com/events/1480119315464673/",
       "class": "d-Block"
     }
   ]
