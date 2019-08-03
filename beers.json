@@ -447,6 +447,22 @@
       "abv": "5.0%",
       "description": "",
       "onTap": true
+    },
+    {
+      "title": "Double V3 IPA",
+      "img": "v3d.jpg",
+      "style": "Imperial Pale Ale",
+      "abv": "10.0%",
+      "description": "",
+      "onTap": true
+    },
+    {
+      "title": "Pearapple Berliner",
+      "img": "pearapple.jpg",
+      "style": "Berliner Weisser",
+      "abv": "TBA",
+      "description": "",
+      "onTap": true
     }
   ]
 }
