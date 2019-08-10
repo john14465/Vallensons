@@ -182,7 +182,7 @@
       "style": "New England IPA",
       "abv": "6.3%",
       "description": "Our NE IPA has an amazing nose, little to no bitterness, and makes the palate dance with it’s full and creamy yet soft mouthfeel. 6% ABV. With this beer, we salute our Texas flag. Come celebrate your independence with us! Cheers!",
-      "onTap": true
+      "onTap": false
     },
     {
       "title": "sMaSH Pale Ale",
@@ -198,7 +198,7 @@
       "style": "Pilsner",
       "abv": "5.2%",
       "description": "We finally made the highly requested light beer. The Vilzner is a crisp, clean 5.2% ABV Pilsner brewed with Pilsner Malt and East Kent Golding Hops. Just in time for the warmer months!",
-      "onTap": false
+      "onTap": true
     },
     {
       "title": "Bourban Barrel Aged Russian Imperial Stout",
@@ -206,7 +206,7 @@
       "style": "Imperial Stout",
       "abv": "12%",
       "description": "Our Russian Imperial Stout is a rich, intense brew with big complex flavors & an aggressive hop profile with a warming dry finish. It's complex malt profile includes many roasted and chocolate malts. Now its aged of months in Garrison Brother Bourban Barrels. It has a low carbonation level and the ABV is 12%.",
-      "onTap": true
+      "onTap": false
     },
     {
       "title": "Double IPA",
@@ -406,7 +406,7 @@
       "style": "India Pale Ale - English",
       "abv": "7.0%",
       "description": "English IPA! It’s packed with flavor and offers a bold balance of hops which represent lavender, thyme, and bright piney aroma, with subtle tones of stone fruit, and firm bitterness. Those who like ESBs will love this one!",
-      "onTap": true
+      "onTap": false
     },
     {
       "title": "Experimental Brown Brut IPA",
@@ -414,7 +414,7 @@
       "style": "India Pale Ale - Brown",
       "abv": "5.0%",
       "description": "",
-      "onTap": true
+      "onTap": false
     },
     {
       "title": "Pear Berliner",
@@ -460,7 +460,7 @@
       "title": "Pearapple Berliner",
       "img": "pearapple.jpg",
       "style": "Berliner Weisser",
-      "abv": "TBA",
+      "abv": "3.2%",
       "description": "",
       "onTap": true
     }
