@@ -7,7 +7,8 @@ section {
   padding: 60px 0;
 }
 
-p, a {
+p,
+a {
   font-size: 1.3em;
   line-height: 25px;
 }
@@ -79,14 +80,14 @@ header {
 .mobile-nav {
   width: 100%;
   height: 0;
-  background: #4175AF;
+  background: #4175af;
   text-align: center;
   position: fixed;
   top: 0;
   left: 0;
   z-index: 5;
-  -webkit-transition: 1.0s;
-  transition: 1.0s;
+  -webkit-transition: 1s;
+  transition: 1s;
   overflow: hidden;
 }
 
@@ -136,7 +137,8 @@ header {
   width: 70%;
 }
 
-#main-logo h1, #main-logo h2 {
+#main-logo h1,
+#main-logo h2 {
   font-weight: 600;
 }
 
@@ -166,7 +168,7 @@ header {
 
 #feature {
   text-align: center;
-  background: #4175AF;
+  background: #4175af;
   color: #fff;
 }
 
@@ -242,7 +244,7 @@ header {
 }
 
 #history {
-  background: #4175AF;
+  background: #4175af;
   color: #fff;
 }
 
@@ -286,7 +288,7 @@ header {
 }
 
 #onTap {
-  background: #4175AF;
+  background: #4175af;
   font-family: "Lato", sans-serif;
 }
 
@@ -331,7 +333,7 @@ header {
 }
 
 #events {
-  background: #4175AF;
+  background: #4175af;
   color: #fff;
   text-align: center;
 }
@@ -356,7 +358,7 @@ header {
 }
 
 #currentevents a {
-  background: #4175AF;
+  background: #4175af;
   color: #fff;
   padding: 10px;
   border-radius: 5px;
@@ -387,7 +389,7 @@ header {
 }
 
 #special {
-  background: #4175AF;
+  background: #4175af;
   color: #fff;
 }
 
@@ -453,7 +455,8 @@ iframe {
           box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
 }
 
-#social, #social h2 {
+#social,
+#social h2 {
   text-align: center;
 }
 
@@ -479,18 +482,20 @@ footer .fa {
 }
 
 footer .fa-facebook-square:hover {
-  color: #3A5BA0;
+  color: #3a5ba0;
 }
 
 footer .fa-twitter-square:hover {
-  color: #2CA7E0;
+  color: #2ca7e0;
 }
 
 footer .fa-instagram:hover {
-  color: #527FA3;
+  color: #527fa3;
 }
 
-footer .fa-facebook-square, footer .fa-twitter-square, footer .fa-instagram {
+footer .fa-facebook-square,
+footer .fa-twitter-square,
+footer .fa-instagram {
   -webkit-transition: 0.2s;
   transition: 0.2s;
 }
@@ -516,9 +521,9 @@ footer .fa-facebook-square, footer .fa-twitter-square, footer .fa-instagram {
     display: none;
   }
   #main-logo a {
-    width: 30%;
-    margin: 20px auto;
     display: block;
+    width: 30%;
+    margin: 100px auto;
   }
   #slides {
     height: 340px;
