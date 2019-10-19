@@ -6,7 +6,7 @@
       "style": "Stout",
       "abv": "5.9%",
       "description": "2019 US Open Beer Championship Gold Medalist",
-      "onTap": true
+      "onTap": false
     },
     {
       "title": "The Advocate Amber Ale",
@@ -70,7 +70,7 @@
       "style": "Imperial Amber",
       "abv": "7.5%",
       "description": "An Imperial Amber Ale that comes in at 7.5%. The color is a dark amber with a nice thick head. The aroma is extremely balanced with a perfect hop character and a ton of malty complexity!",
-      "onTap": false
+      "onTap": true
     },
     {
       "title": "Anniversary Ale",
@@ -238,7 +238,7 @@
       "style": "India Pale Ale",
       "abv": "7.0%",
       "description": "This West Coast style uses a blend of simcoe and centennial hops resulting in perfect clarity and a tropical fruit profile with a slight hint of pine. This great traditional IPA reminds Valle of the IPAs he once enjoyed while stationed with the USAF in California. 7.0% ABV Cheers!",
-      "onTap": true
+      "onTap": false
     },
     {
       "title": "American Wheat",
@@ -486,6 +486,22 @@
       "style": "Russian Imperial Stout",
       "abv": "10%",
       "description": "",
+      "onTap": true
+    },
+    {
+      "title": "Schwarzbier",
+      "img": "schwarzbier.jpg",
+      "style": "Schwarzbier",
+      "abv": "5.5%",
+      "description": "It has a nice light roastiness on the nose, with a touch of cocoa and a little extra bitterness. The german noble hops combined with the roasted barley allows this one to finish amazingly light, crispy and sessionable!!! 5.5% ABV",
+      "onTap": true
+    },
+    {
+      "title": "Scottich Ale/80 Shillings",
+      "img": "scottishale.jpg",
+      "style": "Scottich Export Ale",
+      "abv": "5.6%",
+      "description": "This Scottish-style brown ale has an attractive cherry color; a soft, light body and a hint of licorice in its malt character and a perfect hop balance. It’s rich and dark yet not strong. 5.6% ABV.",
       "onTap": true
     }
   ]
