@@ -120,10 +120,9 @@ header {
   position: relative;
 }
 
-#main-logo {
+.main-logo {
   width: 100%;
   height: auto;
-  margin: 0 auto;
   padding: 20px;
   color: #fff;
   font-weight: bold;
@@ -133,26 +132,26 @@ header {
   left: 0;
 }
 
-#main-logo img {
+.main-logo img {
   width: 70%;
 }
 
-#main-logo h1,
-#main-logo h2 {
+.main-logo h1,
+.main-logo h2 {
   font-weight: 600;
 }
 
-#main-logo h1 {
+.main-logo h1 {
   font-family: "IM Fell English", serif;
   font-size: 2em;
 }
 
-#main-logo h2 {
+.main-logo h2 {
   font-size: 1.2em;
   margin-bottom: 20px;
 }
 
-#main-logo a {
+.main-logo a {
   padding: 10px;
   color: #fff;
   text-decoration: none;
@@ -508,22 +507,22 @@ footer .fa-instagram {
 }
 
 @media (min-width: 667px) {
-  #main-logo {
+  .main-logo {
     top: 5px;
   }
-  #main-logo img {
+  .main-logo img {
     width: 50%;
   }
-  #main-logo h1 {
+  .main-logo h1 {
     display: none;
   }
-  #main-logo h2 {
+  .main-logo h2 {
     display: none;
   }
-  #main-logo a {
+  .main-logo a {
     display: block;
     width: 30%;
-    margin: 100px auto;
+    margin: 20px 0;
   }
   #slides {
     height: 340px;
@@ -531,22 +530,21 @@ footer .fa-instagram {
 }
 
 @media (min-width: 768px) {
-  #main-logo {
+  .main-logo {
     top: 20%;
   }
-  #main-logo img {
+  .main-logo img {
     width: 50%;
   }
-  #main-logo h1 {
+  .main-logo h1 {
     display: block;
   }
-  #main-logo h2 {
+  .main-logo h2 {
     display: block;
   }
-  #main-logo a {
+  .main-logo a {
     width: 30%;
-    margin: 20px auto;
-    display: block;
+    margin: 20px 0;
   }
   .overlay h1 {
     font-size: 4em;
@@ -561,7 +559,7 @@ footer .fa-instagram {
 }
 
 @media (min-width: 1024px) {
-  #main-logo {
+  .main-logo {
     top: 10%;
   }
   #mobile-icon {
@@ -580,13 +578,13 @@ footer .fa-instagram {
 }
 
 @media (min-width: 1200px) {
-  #main-logo {
+  .main-logo {
     top: 5%;
   }
-  #main-logo img {
-    width: 40%;
+  .main-logo img {
+    width: 30%;
   }
-  #main-logo a {
+  .main-logo a {
     width: 20%;
   }
   #landing {

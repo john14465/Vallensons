@@ -30,7 +30,7 @@
       "style": "American Wheat Ale",
       "abv": "5.5%",
       "description": "This great summer beer is our American Wheat with a twist! We added fresh lemongrass and ginger throughout the brewing process resulting in very clean refreshing flavors without an overbearing ginger taste. The ABV is 5.5%.",
-      "onTap": true
+      "onTap": false
     },
     {
       "title": "Cream Ale",
@@ -70,7 +70,7 @@
       "style": "Imperial Amber",
       "abv": "7.5%",
       "description": "An Imperial Amber Ale that comes in at 7.5%. The color is a dark amber with a nice thick head. The aroma is extremely balanced with a perfect hop character and a ton of malty complexity!",
-      "onTap": true
+      "onTap": false
     },
     {
       "title": "Anniversary Ale",
@@ -182,7 +182,7 @@
       "style": "New England IPA",
       "abv": "6.3%",
       "description": "Our NE IPA has an amazing nose, little to no bitterness, and makes the palate dance with it’s full and creamy yet soft mouthfeel. 6% ABV. With this beer, we salute our Texas flag. Come celebrate your independence with us! Cheers!",
-      "onTap": false
+      "onTap": true
     },
     {
       "title": "sMaSH Pale Ale",
@@ -198,7 +198,7 @@
       "style": "Pilsner",
       "abv": "5.2%",
       "description": "We finally made the highly requested light beer. The Vilzner is a crisp, clean 5.2% ABV Pilsner brewed with Pilsner Malt and East Kent Golding Hops. Just in time for the warmer months!",
-      "onTap": true
+      "onTap": false
     },
     {
       "title": "Bourban Barrel Aged Russian Imperial Stout",
@@ -225,12 +225,12 @@
       "onTap": false
     },
     {
-      "title": "Dos Iijos Pale",
+      "title": "Dos Hijos Pale",
       "img": "dos.jpg",
       "style": "Mexican Pale Ale",
       "abv": "5.5%",
       "description": "Introducing our clean crisp MeIican Pale Ale. With the sons of Vallensons in mind, we name this one, Dos Hijos! This is a unique pale ale with moderate bitterness and a soft bready malt backbone.",
-      "onTap": false
+      "onTap": true
     },
     {
       "title": "West Coast IPA",
@@ -446,7 +446,7 @@
       "style": "India Pale Ale",
       "abv": "5.0%",
       "description": "",
-      "onTap": true
+      "onTap": false
     },
     {
       "title": "Double V3 IPA",
@@ -461,6 +461,30 @@
       "img": "pearapple.jpg",
       "style": "Berliner Weisser",
       "abv": "3.2%",
+      "description": "",
+      "onTap": true
+    },
+    {
+      "title": "Lo/cal Reserve",
+      "img": "reserve.jpg",
+      "style": "Pale Ale - American",
+      "abv": "4.7%",
+      "description": "",
+      "onTap": true
+    },
+    {
+      "title": "PB&Jr RIS",
+      "img": "russian.jpg",
+      "style": "Russian Imperial Stout",
+      "abv": "10%",
+      "description": "",
+      "onTap": true
+    },
+    {
+      "title": "Russian Imperial Stout Oak-Barrel Aged",
+      "img": "russian.jpg",
+      "style": "Russian Imperial Stout",
+      "abv": "10%",
       "description": "",
       "onTap": true
     }
