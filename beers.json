@@ -238,7 +238,7 @@
       "style": "India Pale Ale",
       "abv": "7.0%",
       "description": "This West Coast style uses a blend of simcoe and centennial hops resulting in perfect clarity and a tropical fruit profile with a slight hint of pine. This great traditional IPA reminds Valle of the IPAs he once enjoyed while stationed with the USAF in California. 7.0% ABV Cheers!",
-      "onTap": false
+      "onTap": true
     },
     {
       "title": "American Wheat",
@@ -470,7 +470,7 @@
       "style": "Pale Ale - American",
       "abv": "4.7%",
       "description": "",
-      "onTap": true
+      "onTap": false
     },
     {
       "title": "PB&Jr RIS",
@@ -478,7 +478,7 @@
       "style": "Russian Imperial Stout",
       "abv": "10%",
       "description": "",
-      "onTap": true
+      "onTap": false
     },
     {
       "title": "Russian Imperial Stout Oak-Barrel Aged",
