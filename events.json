@@ -191,11 +191,47 @@
     },
     {
       "month": 11,
+      "day": 2,
+      "year": 2019,
+      "title": "Cousins Maine Lobster in Pearland",
+      "description": "",
+      "link": "https://www.facebook.com/events/568182077256984/",
+      "class": "d-Block"
+    },
+    {
+      "month": 11,
+      "day": 3,
+      "year": 2019,
+      "title": "Blankets and Brews",
+      "description": "Come create the infamous Chunky Knit Blanket at Vallenson's Brewery. Grab a pint of brew and a ball of yarn and let us teach you how to DIY a blanket. There is NO experience needed, and this is hand knitting. No needles allowed. Register for this unique and fun-filled opportunity!",
+      "link": "https://www.facebook.com/events/460896488109674/",
+      "class": "d-Block"
+    },
+    {
+      "month": 11,
       "day": 10,
       "year": 2019,
       "title": "Sunday Funday and Membership Drive",
       "description": "Are you looking for a way to give back to your community? Exchange Club of Pearland celebrate it's 30th birthday in Pearland this year.  We are a group of men and women that exchange their time and talents and connections to better their community thru acts of service in AMERICANISM, COMMUNITY, YOUTH, and our National Focus of THE PREVENTION OF CHILD ABUSE. Come visit with us and see if you fit!  You might be a great volunteer, or organizer, or sponsor, or member!  There is a place for everyone in our group. Register for your FREE ticket so that we can know how many to expect and plan snacks accordingly. LOOK FORWARD TO MEETING YOU!",
       "link": "https://www.facebook.com/events/2474066396009163/",
+      "class": "d-Block"
+    },
+    {
+      "month": 11,
+      "day": 29,
+      "year": 2019,
+      "title": "Annie & Kate/Nacho Nachos!",
+      "description": "BLACK FRIDAY!! We will be open 3-10pm. Nacho Nachos will be serving #nextlevelnachos from 5-9pm. Live music by by the awesome duo, Annie and Kate, from 6-9pm. Cheers!!",
+      "link": "https://www.facebook.com/events/692361311286744/",
+      "class": "d-Block"
+    },
+    {
+      "month": 12,
+      "day": 19,
+      "year": 2019,
+      "title": "Santa is Coming to Vallensons!",
+      "description": "SAVE THE DATE: Santa is Coming to Vallensons on Thursday, Dec 19th at 6pm! Bring your family, the pups (on leash), your cameras, and take FREE pics with Santa! Our Christmas Ale, Root Beer, and Cream Soda will be back on tap! Malty and Hoppy, the silly elves, will be returning too!! Come out for this great event!",
+      "link": "https://www.facebook.com/events/1867360743410530/",
       "class": "d-Block"
     }
   ]

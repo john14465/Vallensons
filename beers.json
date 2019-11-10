@@ -6,7 +6,7 @@
       "style": "Stout",
       "abv": "5.9%",
       "description": "2019 US Open Beer Championship Gold Medalist",
-      "onTap": false
+      "onTap": true
     },
     {
       "title": "The Advocate Amber Ale",
@@ -230,7 +230,7 @@
       "style": "Mexican Pale Ale",
       "abv": "5.5%",
       "description": "Introducing our clean crisp MeIican Pale Ale. With the sons of Vallensons in mind, we name this one, Dos Hijos! This is a unique pale ale with moderate bitterness and a soft bready malt backbone.",
-      "onTap": true
+      "onTap": false
     },
     {
       "title": "West Coast IPA",
@@ -390,7 +390,7 @@
       "style": "Tea Beer",
       "abv": "5.2%",
       "description": "2019 US Open Beer Championship bronze Medalist! This is the second of our spring and summer Herbal Tea Beer Series. A light pale ale with an earthy and floral hops profile and an element of citrus. We used fresh herbs, including peach, lemongrass, Hibiscus, and more, at different stages of the mash and boil. We think it’s even better than our BeauTEAful beer!",
-      "onTap": true
+      "onTap": false
     },
     {
       "title": "Pink",
@@ -462,7 +462,7 @@
       "style": "Berliner Weisser",
       "abv": "3.2%",
       "description": "",
-      "onTap": true
+      "onTap": false
     },
     {
       "title": "Lo/cal Reserve",
@@ -502,6 +502,22 @@
       "style": "Scottich Export Ale",
       "abv": "5.6%",
       "description": "This Scottish-style brown ale has an attractive cherry color; a soft, light body and a hint of licorice in its malt character and a perfect hop balance. It’s rich and dark yet not strong. 5.6% ABV.",
+      "onTap": true
+    },
+    {
+      "title": "Raspberry Sour",
+      "img": "resberry.jpg",
+      "style": "Sour",
+      "abv": "5.5%",
+      "description": "",
+      "onTap": true
+    },
+    {
+      "title": "DIPA Experimental #4",
+      "img": "diex4.jpg",
+      "style": "Imperial Pale Ale",
+      "abv": "7.5%",
+      "description": "",
       "onTap": true
     }
   ]
