@@ -382,7 +382,7 @@
       "style": "Other",
       "abv": "5.3%",
       "description": "This is the first of our spring and summer Herbal Tea Beer Series. This is a light pale ale with an earthy and floral hops profile with an element of citrus. We used fresh herbs at different stages of the mash and boil to come up with this BeauTeaful beer. Some of the herbs consist of dried apples, rose-hips, BlackBerry leaves, Hibiscus, and more. Perfect timing for the spring and summer months.",
-      "onTap": false
+      "onTap": true
     },
     {
       "title": "CrafTEA Peach",
@@ -454,7 +454,7 @@
       "style": "Imperial Pale Ale",
       "abv": "10.0%",
       "description": "",
-      "onTap": true
+      "onTap": false
     },
     {
       "title": "Pearapple Berliner",
@@ -486,7 +486,7 @@
       "style": "Russian Imperial Stout",
       "abv": "10%",
       "description": "",
-      "onTap": true
+      "onTap": false
     },
     {
       "title": "Schwarzbier",
@@ -505,7 +505,7 @@
       "onTap": true
     },
     {
-      "title": "Raspberry Sour",
+      "title": "Veri",
       "img": "resberry.jpg",
       "style": "Sour",
       "abv": "5.5%",
