@@ -62,7 +62,7 @@
       "style": "Pale Ale",
       "abv": "5.7%",
       "description": "",
-      "onTap": true
+      "onTap": false
     },
     {
       "title": "Amberzon",
@@ -142,7 +142,7 @@
       "style": "English Old Ale",
       "abv": "6.8%",
       "description": "Our Christmas Ale is brewed in the style of an English Old Ale with an emphasis of the Winter Warmer profile. Brewed with fresh spruce tips. ABV is 6.8%. Perfect for your holiday celebrations!",
-      "onTap": false
+      "onTap": true
     },
     {
       "title": "V3",
@@ -230,7 +230,7 @@
       "style": "Mexican Pale Ale",
       "abv": "5.5%",
       "description": "Introducing our clean crisp MeIican Pale Ale. With the sons of Vallensons in mind, we name this one, Dos Hijos! This is a unique pale ale with moderate bitterness and a soft bready malt backbone.",
-      "onTap": true
+      "onTap": false
     },
     {
       "title": "West Coast IPA",
@@ -494,7 +494,7 @@
       "style": "Schwarzbier",
       "abv": "5.5%",
       "description": "It has a nice light roastiness on the nose, with a touch of cocoa and a little extra bitterness. The german noble hops combined with the roasted barley allows this one to finish amazingly light, crispy and sessionable!!! 5.5% ABV",
-      "onTap": true
+      "onTap": false
     },
     {
       "title": "Scottich Ale/80 Shillings",
@@ -526,7 +526,7 @@
       "style": "Stout - Coffee",
       "abv": "8.5%",
       "description": "",
-      "onTap": true
+      "onTap": false
     },
     {
       "title": "Baltic Porter",
@@ -535,6 +535,14 @@
       "abv": "7.8%",
       "description": "",
       "onTap": true
+    },
+    {
+      "title": "Apple Wassail Sour",
+      "img": "brownporter.jpg",
+      "style": "Sour - Fruited",
+      "abv": "5.5%",
+      "description": "Apple Wassail Sour, a spin on a family wassail recipe. And while this beer is COLD, it was brewed with hibiscus, ginger, lemon & cinnamon...a perfect balance of the mulled ingredients used in the wassail recipe that Valle and his family has enjoyed for years! Sour & sweet flavored with mulling spices. Smooth, delicious, drinkable! Get it fully dressed with cinnamon stick and lemon! And as Valle would say with a Wassail in hand.",
+      "onTap": false
     }
   ]
 }
