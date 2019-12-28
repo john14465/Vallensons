@@ -227,6 +227,24 @@
     },
     {
       "month": 12,
+      "day": 1,
+      "year": 2019,
+      "title": "Blankets, Brews, & Brunch at the Brewery!",
+      "description": "Many have asked for another Blankets, Brews, and Brunch at the Brewery event! The first event was a huge success! If you missed it, here’s another opportunity, Dec 1st! This beautiful blanket could be a great Christmas gift or keep it for yourself! Click on the link to register. Seats are limited. Arrive early to pick out yarn colors (first come first serve), enjoy brunch, and grab a beer, mimosa, wine, or cider. Will start promptly at 1pm. Brewery opens at 12pm. Cheers!",
+      "link": "https://www.facebook.com/events/740928089759077/",
+      "class": "d-Block"
+    },
+    {
+      "month": 12,
+      "day": 14,
+      "year": 2019,
+      "title": "Holiday Market! Sip and Shop at Vallensons!",
+      "description": "Sip and Shop at Vallensons on Sat, Dec 14th from 12-5pm. Live music by Bryan Shayne from 6-9pm. C&S Rollin' Smoke will be the food truck of the day! VENDORS who are interested in having a booth should complete a vendor application by clicking on the "TICKETS" link. Vendor questions can be directed to KCevents30@gmail.com. Cheers!",
+      "link": "https://www.facebook.com/events/2118088598499919/",
+      "class": "d-Block"
+    },
+    {
+      "month": 12,
       "day": 19,
       "year": 2019,
       "title": "Santa is Coming to Vallensons!",

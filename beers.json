@@ -46,7 +46,7 @@
       "style": "Imperial Stout",
       "abv": "10%",
       "description": "Our Russian Imperial Stout is a rich, intense brew with big complex flavors & an aggressive hop profile with a warming dry finish. It's complex malt profile includes many roasted and chocolate malts. It has a low carbonation level and the ABV is 10%.",
-      "onTap": false
+      "onTap": true
     },
     {
       "title": "Hazy Girl!",
@@ -204,9 +204,9 @@
       "title": "Bourban Barrel Aged Russian Imperial Stout",
       "img": "bbrussian.jpg",
       "style": "Imperial Stout",
-      "abv": "12%",
+      "abv": "11%",
       "description": "Our Russian Imperial Stout is a rich, intense brew with big complex flavors & an aggressive hop profile with a warming dry finish. It's complex malt profile includes many roasted and chocolate malts. Now its aged of months in Garrison Brother Bourban Barrels. It has a low carbonation level and the ABV is 12%.",
-      "onTap": false
+      "onTap": true
     },
     {
       "title": "Double IPA",
@@ -230,7 +230,7 @@
       "style": "Mexican Pale Ale",
       "abv": "5.5%",
       "description": "Introducing our clean crisp MeIican Pale Ale. With the sons of Vallensons in mind, we name this one, Dos Hijos! This is a unique pale ale with moderate bitterness and a soft bready malt backbone.",
-      "onTap": false
+      "onTap": true
     },
     {
       "title": "West Coast IPA",
@@ -478,7 +478,7 @@
       "style": "Russian Imperial Stout",
       "abv": "10%",
       "description": "",
-      "onTap": false
+      "onTap": true
     },
     {
       "title": "Russian Imperial Stout Oak-Barrel Aged",
@@ -502,7 +502,7 @@
       "style": "Scottich Export Ale",
       "abv": "5.6%",
       "description": "This Scottish-style brown ale has an attractive cherry color; a soft, light body and a hint of licorice in its malt character and a perfect hop balance. It’s rich and dark yet not strong. 5.6% ABV.",
-      "onTap": true
+      "onTap": false
     },
     {
       "title": "Veri",
@@ -517,6 +517,22 @@
       "img": "diex4.jpg",
       "style": "Imperial Pale Ale",
       "abv": "7.5%",
+      "description": "",
+      "onTap": true
+    },
+    {
+      "title": "Rocket Boom Coffee Stout",
+      "img": "rocket.jpg",
+      "style": "Stout - Coffee",
+      "abv": "8.5%",
+      "description": "",
+      "onTap": true
+    },
+    {
+      "title": "Baltic Porter",
+      "img": "brownporter.jpg",
+      "style": "Porter - Baltic",
+      "abv": "7.8%",
       "description": "",
       "onTap": true
     }
