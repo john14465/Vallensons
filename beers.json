@@ -446,7 +446,7 @@
       "style": "India Pale Ale",
       "abv": "5.0%",
       "description": "",
-      "onTap": true
+      "onTap": false
     },
     {
       "title": "Double V3 IPA",
