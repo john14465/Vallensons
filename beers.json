@@ -30,7 +30,7 @@
       "style": "American Wheat Ale",
       "abv": "5.5%",
       "description": "This great summer beer is our American Wheat with a twist! We added fresh lemongrass and ginger throughout the brewing process resulting in very clean refreshing flavors without an overbearing ginger taste. The ABV is 5.5%.",
-      "onTap": false
+      "onTap": true
     },
     {
       "title": "Cream Ale",
@@ -46,7 +46,7 @@
       "style": "Imperial Stout",
       "abv": "10%",
       "description": "Our Russian Imperial Stout is a rich, intense brew with big complex flavors & an aggressive hop profile with a warming dry finish. It's complex malt profile includes many roasted and chocolate malts. It has a low carbonation level and the ABV is 10%.",
-      "onTap": true
+      "onTap": false
     },
     {
       "title": "Hazy Girl!",
@@ -70,7 +70,7 @@
       "style": "Imperial Amber",
       "abv": "7.5%",
       "description": "An Imperial Amber Ale that comes in at 7.5%. The color is a dark amber with a nice thick head. The aroma is extremely balanced with a perfect hop character and a ton of malty complexity!",
-      "onTap": true
+      "onTap": false
     },
     {
       "title": "Anniversary Ale",
@@ -142,7 +142,7 @@
       "style": "English Old Ale",
       "abv": "6.8%",
       "description": "Our Christmas Ale is brewed in the style of an English Old Ale with an emphasis of the Winter Warmer profile. Brewed with fresh spruce tips. ABV is 6.8%. Perfect for your holiday celebrations!",
-      "onTap": true
+      "onTap": false
     },
     {
       "title": "V3",
@@ -206,7 +206,7 @@
       "style": "Imperial Stout",
       "abv": "11%",
       "description": "Our Russian Imperial Stout is a rich, intense brew with big complex flavors & an aggressive hop profile with a warming dry finish. It's complex malt profile includes many roasted and chocolate malts. Now its aged of months in Garrison Brother Bourban Barrels. It has a low carbonation level and the ABV is 12%.",
-      "onTap": true
+      "onTap": false
     },
     {
       "title": "Double IPA",
@@ -230,7 +230,7 @@
       "style": "Mexican Pale Ale",
       "abv": "5.5%",
       "description": "Introducing our clean crisp MeIican Pale Ale. With the sons of Vallensons in mind, we name this one, Dos Hijos! This is a unique pale ale with moderate bitterness and a soft bready malt backbone.",
-      "onTap": false
+      "onTap": true
     },
     {
       "title": "West Coast IPA",
@@ -238,7 +238,7 @@
       "style": "India Pale Ale",
       "abv": "7.0%",
       "description": "This West Coast style uses a blend of simcoe and centennial hops resulting in perfect clarity and a tropical fruit profile with a slight hint of pine. This great traditional IPA reminds Valle of the IPAs he once enjoyed while stationed with the USAF in California. 7.0% ABV Cheers!",
-      "onTap": true
+      "onTap": false
     },
     {
       "title": "American Wheat",
@@ -318,7 +318,7 @@
       "style": "Scottish Ale",
       "abv": "7.0%",
       "description": "",
-      "onTap": false
+      "onTap": true
     },
     {
       "title": "Cherry Stout",
@@ -382,7 +382,7 @@
       "style": "Other",
       "abv": "5.3%",
       "description": "This is the first of our spring and summer Herbal Tea Beer Series. This is a light pale ale with an earthy and floral hops profile with an element of citrus. We used fresh herbs at different stages of the mash and boil to come up with this BeauTeaful beer. Some of the herbs consist of dried apples, rose-hips, BlackBerry leaves, Hibiscus, and more. Perfect timing for the spring and summer months.",
-      "onTap": true
+      "onTap": false
     },
     {
       "title": "CrafTEA Peach",
@@ -446,7 +446,7 @@
       "style": "India Pale Ale",
       "abv": "5.0%",
       "description": "",
-      "onTap": false
+      "onTap": true
     },
     {
       "title": "Double V3 IPA",
@@ -518,7 +518,7 @@
       "style": "Imperial Pale Ale",
       "abv": "7.5%",
       "description": "",
-      "onTap": true
+      "onTap": false
     },
     {
       "title": "Rocket Boom Coffee Stout",
@@ -534,7 +534,7 @@
       "style": "Porter - Baltic",
       "abv": "7.8%",
       "description": "",
-      "onTap": true
+      "onTap": false
     },
     {
       "title": "Apple Wassail Sour",
@@ -543,6 +543,62 @@
       "abv": "5.5%",
       "description": "Apple Wassail Sour, a spin on a family wassail recipe. And while this beer is COLD, it was brewed with hibiscus, ginger, lemon & cinnamon...a perfect balance of the mulled ingredients used in the wassail recipe that Valle and his family has enjoyed for years! Sour & sweet flavored with mulling spices. Smooth, delicious, drinkable! Get it fully dressed with cinnamon stick and lemon! And as Valle would say with a Wassail in hand.",
       "onTap": false
+    },
+    {
+      "title": "Session Pale Ale",
+      "img": "depot.jpg",
+      "style": "Pale Ale",
+      "abv": "5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Exp West Coast IPA",
+      "img": "wcipa.jpg",
+      "style": "IPA - American",
+      "abv": "7.8%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Tangerine Sour",
+      "img": "sunrise.jpg",
+      "style": "Sour - Fruited",
+      "abv": "5%",
+      "description": "",
+      "onTap": false
+    },
+    {
+      "title": "Dry Stout",
+      "img": "dry.jpg",
+      "style": "Stout",
+      "abv": "5.5%",
+      "description": "",
+      "onTap": true
+    },
+    {
+      "title": "Ordinary Bitter",
+      "img": "ob.jpg",
+      "style": "Ordinary Bitter",
+      "abv": "3.2%",
+      "description": "Leap Beer 2020! It’s an Ordinary Bitter and it’s tasty!",
+      "onTap": true
+    },
+    {
+      "title": "Exp#5 DIPA",
+      "img": "exp5.jpg",
+      "style": "IPA - Imperial",
+      "abv": "8.1%",
+      "description": "",
+      "onTap": true
+    },
+    {
+      "title": "Daisy Chain Hazy NEIPA",
+      "img": "daisy.jpg",
+      "style": "IPA - New England",
+      "abv": "6%",
+      "description": "We are honored to be part of the 2020 Houston Daisy Chain project! 1 Yeast, 11 Breweries! We brewed a Hazy NEIPA, 6% ABV, that we triple dry hopped with simcoe, cascade, and ahtanum. Its amazing creamy body and perfectly balanced hop characteristic provides an aroma that is packed full of floral, earthy, pine, and grapefruit notes.",
+      "onTap": true
     }
   ]
 }
